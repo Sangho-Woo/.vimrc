@@ -1,0 +1,13 @@
+set number
+set tabstop=4
+set shiftwidth=4
+set linebreak
+set hlsearch
+set paste
+
+set ai
+set si
+set cindent
+
+syntax on
+colorscheme torte
